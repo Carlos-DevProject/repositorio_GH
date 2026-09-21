@@ -1,2 +1,2 @@
 # repositorio-GH - README
-Repositorio para reaprendizaje de GH
+Repositorio para reaprendizaje de GH 2026
